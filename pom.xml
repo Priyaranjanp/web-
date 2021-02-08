@@ -58,6 +58,11 @@
 			<version>5.1.4.RELEASE</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.sun.mail</groupId>
+			<artifactId>smtp</artifactId>
+			<version>1.5.1</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>web</finalName>
