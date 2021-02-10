@@ -9,5 +9,8 @@ public class homeController {
 	public String demo(){
 		return "gr";
 	}
-
+	@RequestMapping("/gum1")
+	public String demo1() {
+		return "gr1";
+	}
 }
