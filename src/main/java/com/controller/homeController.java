@@ -11,6 +11,6 @@ public class homeController {
 	}
 	@RequestMapping("/gum1")
 	public String demo1() {
-		return "gr1";
+		return "gr2";
 	}
 }
